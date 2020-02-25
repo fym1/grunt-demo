@@ -2,13 +2,14 @@ h1{
     background-color: green;
 }
 div{
-    width:170px;
-    margin: 50px auto;
     font-size: 1.1em;
+    margin: 50px auto;
+    width:170px;
 }
 #calculate{
-    width: 70px;
     margin-left: 62px;
+    width: 70px;
+    
 }
 input,label{
     margin: 5px 0;
