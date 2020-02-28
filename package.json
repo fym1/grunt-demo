@@ -19,11 +19,7 @@
   "homepage": "https://github.com/fym1/grunt-demo#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "grunt": "^1.0.4",
-    "grunt-mocha-cli": "^5.0.0",
-    "grunt-mocha-istanbul": "^5.0.2",
-    "istanbul": "^0.4.5",
-    "mocha": "^7.0.1",
-    "mochawesome": "^5.0.0"
+    "grunt": ">=0.4.5",
+    "grunt-mocha": "^0.4.12"
   }
 }
