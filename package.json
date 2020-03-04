@@ -19,6 +19,6 @@
   "homepage": "https://github.com/fym1/grunt-demo#readme",
   "devDependencies": {
     "grunt": "^1.0.4",
-    "grunt-contrib-cssmin": "^3.0.0"
+    "grunt-contrib-imagemin": "^3.1.0"
   }
 }
